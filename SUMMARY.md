@@ -4,5 +4,5 @@
 
 ## Yönetim
 
-* [📑 İçerik Yönetimi](yoenetim/icerik-yoenetimi.md)
+* [📑 İçerik Yönetimi](yoenetim/icerik-yonetimi.md)
 
