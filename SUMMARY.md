@@ -6,3 +6,7 @@
 
 * [📑 İçerik Yönetimi](yonetim/icerik-yonetimi.md)
 
+## İçerikler
+
+* [📊 Veri Bilimi](icerikler/veri-bilimi.md)
+
