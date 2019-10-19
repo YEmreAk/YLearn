@@ -2,7 +2,7 @@
 description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 ---
 
-# 🤖 Makine Öğrenimi
+# 👩‍🏫 Makine Öğrenimi
 
 ## 🧰 Makine Öğrenimi Başlangıç Kiti
 
