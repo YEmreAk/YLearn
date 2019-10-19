@@ -9,4 +9,5 @@
 ## İçerikler
 
 * [📊 Veri Bilimi](icerikler/veri-bilimi.md)
+* [🐍 Python](icerikler/python.md)
 
