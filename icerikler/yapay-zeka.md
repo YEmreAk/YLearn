@@ -4,9 +4,9 @@ description: Yapay zeka (artificial intelligent) öğrenme bağlantıları
 
 # 🧠 Yapay Zeka
 
-### 🧬 Convolutional Neural Networks \(CNN\)
+### 🏫 Stanford Cheet Sheets
 
-{% embed url="https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks" caption="CNN Cheat Sheets" %}
+{% embed url="https://stanford.edu/~shervine/teaching/" %}
 
 
 
