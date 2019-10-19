@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👨‍🏫 YLearn](README.md)
+* [⭐ Benzer Çalışmalar](benzer-calismalar.md)
 
 ## Yönetim <a id="yonetim"></a>
 
