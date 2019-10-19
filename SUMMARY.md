@@ -2,7 +2,7 @@
 
 * [👨‍🏫 YLearn](README.md)
 
-## Yönetim
+## Yönetim <a id="yonetim"></a>
 
-* [📑 İçerik Yönetimi](yoenetim/icerik-yonetimi.md)
+* [📑 İçerik Yönetimi](yonetim/icerik-yonetimi.md)
 
