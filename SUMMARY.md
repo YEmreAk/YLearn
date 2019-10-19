@@ -2,6 +2,7 @@
 
 * [👨‍🏫 YLearn](README.md)
 * [⭐ Benzer Çalışmalar](benzer-calismalar.md)
+* [🥽 Yabancı Kaynaklar](awesome.md)
 
 ## Yönetim <a id="yonetim"></a>
 
