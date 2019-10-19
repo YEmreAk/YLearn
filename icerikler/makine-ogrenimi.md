@@ -4,7 +4,11 @@ description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 
 # 👩‍🏫 Makine Öğrenimi
 
-## 🧰 Makine Öğrenimi Başlangıç Kiti
+### 🌎 Faydalı Siteler
+
+{% embed url="https://ai.yemreak.com" caption="Yapay Zeka ~ YEmreAk" %}
+
+### 🧰 Makine Öğrenimi Başlangıç Kiti
 
 Makine öğrenimi temellerini ve uygulamasını öğrenme adımları
 

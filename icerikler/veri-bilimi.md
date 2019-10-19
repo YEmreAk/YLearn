@@ -4,6 +4,10 @@ description: Veri bilimi (Data Science) öğrenme bağlantıları
 
 # 📊 Veri Bilimi
 
+### 🌎 Faydalı Siteler
+
+{% embed url="https://ai.yemreak.com" caption="Yapay Zeka ~ YEmreAk" %}
+
 ### 🧰 Veri Bilimi Başlangıç Kiti
 
 [📘 Data Science Notebooks](https://ds.yemreak.com/data-science-notebookss) alanından kodları çalıştırarak öğrene bilirsin.

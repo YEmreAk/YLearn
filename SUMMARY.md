@@ -8,7 +8,9 @@
 
 ## İçerikler
 
-* [📊 Veri Bilimi](icerikler/veri-bilimi.md)
+* [🎇 Windows 10](icerikler/windows-10.md)
+* [🔢 Algoritma](icerikler/algoritma.md)
 * [🐍 Python](icerikler/python.md)
-* [👩‍🏫 Makine Öğrenimi](icerikler/makine-oegrenimi.md)
+* [📊 Veri Bilimi](icerikler/veri-bilimi.md)
+* [👩‍🏫 Makine Öğrenimi](icerikler/makine-ogrenimi.md)
 

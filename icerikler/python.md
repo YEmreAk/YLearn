@@ -4,6 +4,10 @@ description: Python öğrenme bağlantıları
 
 # 🐍 Python
 
+### 🌎 Faydalı Siteler
+
+{% embed url="https://python.yemreak.com" caption="Python ~ YEmreak" %}
+
 ### 🧰 Python Başlangıç Kiti
 
 [📗 Python Notebooks](https://python.yemreak.com/0.2-python-notebooks) alanından kodları çalıştırarak öğrene bilirsin.
