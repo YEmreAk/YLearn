@@ -10,4 +10,5 @@
 
 * [📊 Veri Bilimi](icerikler/veri-bilimi.md)
 * [🐍 Python](icerikler/python.md)
+* [🤖 Makine Öğrenimi](icerikler/makine-oegrenimi.md)
 
