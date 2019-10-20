@@ -17,4 +17,5 @@
 * [📊 Veri Bilimi](icerikler/veri-bilimi.md)
 * [👩‍🏫 Makine Öğrenimi](icerikler/makine-ogrenimi.md)
 * [🧠 Yapay Zeka](icerikler/yapay-zeka.md)
+* [🍎 MacOS](icerikler/macos.md)
 
