@@ -1,5 +1,5 @@
 ---
-description: Yapay zeka (artificial intelligent) öğrenme bağlantıları
+description: Yapay zeka (artificial intelligence) öğrenme bağlantıları
 ---
 
 # 🧠 Yapay Zeka
