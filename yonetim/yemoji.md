@@ -14,11 +14,18 @@ Emojiler görsel objeler olduğundan metinlere nazaran daha anlaşılırdır
 
 ## 🎀 Emoji Sözlüğü Kullanımı
 
+Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
+
+{% hint style="danger" %}
+İşletim sistemleri tarafından emoji olarak algılanmayanları kullanmayınız.
+{% endhint %}
+
 | Emoji | Anahtar | Aslı | Kullanım Alanı |
 | :--- | :--- | :--- | :--- |
 | 💫 | yıldız | Baş dönmesi | Döngü, senkronizasyon |
 | 🧱 | duvar | Tuğla | Temel, yapı |
 | ⭐ | yıldız | yıldız | Örnek |
+| 🌟 | parıl | parıldayan yıldız | Çok önemli, aşırı bilgilendirici, aşırılık |
 | 👨‍💻 | kod | erkek-teknoloji uzmanı | Kodlama, programlama, geliştirici |
 | 🎇 | havai | fişek | Güncel |
 | 🔡 | küçük | küçük harfler | String, harf, alfabe |
