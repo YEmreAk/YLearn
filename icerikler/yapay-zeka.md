@@ -14,3 +14,11 @@ description: Yapay zeka (artificial intelligence) öğrenme bağlantıları
 
 {% embed url="https://ai.yemreak.com" caption="Yapay Zeka ~ YEmreAk" %}
 
+### 📚Kütüphaneler
+
+#### 👓 Bilgisayar Görüşü tabanlı uygulamalar geliştirmeyi kolaylaştıran bir kütüphane
+
+{% embed url="https://imageai.readthedocs.io/en/latest/" %}
+
+
+
