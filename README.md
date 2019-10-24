@@ -10,5 +10,5 @@ Bu sitenin amacı, öğrenme yollarını daha anlaşılır ve temiz halde sunmak
 
 > Öğrenmek istediğin konular hakkında detaylı bilgiyi [🥽 Yabancı Kaynaklar](awesome.md) alanında görebilirsin.
 
-
+![](.gitbook/assets/image%20%281%29.png)
 
