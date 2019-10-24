@@ -4,19 +4,19 @@ description: Yapay zeka (artificial intelligence) öğrenme bağlantıları
 
 # 🧠 Yapay Zeka
 
-### 🏫 Stanford Cheet Sheets
+## 🏫 Stanford Cheet Sheets
 
 {% embed url="https://stanford.edu/~shervine/teaching/" %}
 
 
 
-### 🌎 Faydalı Siteler
+## 🌎 Faydalı Siteler
 
 {% embed url="https://ai.yemreak.com" caption="Yapay Zeka ~ YEmreAk" %}
 
-### 📚Kütüphaneler
+## 📚Kütüphaneler
 
-#### 👓 Bilgisayar Görüşü tabanlı uygulamalar geliştirmeyi kolaylaştıran bir kütüphane
+### 👓 Bilgisayar Görüşü tabanlı uygulamalar geliştirmeyi kolaylaştıran bir kütüphane
 
 {% embed url="https://imageai.readthedocs.io/en/latest/" %}
 
