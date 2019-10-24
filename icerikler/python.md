@@ -8,6 +8,12 @@ description: Python öğrenme bağlantıları
 
 {% embed url="https://python.yemreak.com" caption="Python ~ YEmreak" %}
 
+### 📜 Kapsamlı ve Ayrıntılı Kaynak
+
+{% embed url="https://data-flair.training/blogs/python-tutorial/" %}
+
+
+
 ### 🧰 Python Başlangıç Kiti
 
 [📗 Python Notebooks](https://python.yemreak.com/0.2-python-notebooks) alanından kodları çalıştırarak öğrene bilirsin.
