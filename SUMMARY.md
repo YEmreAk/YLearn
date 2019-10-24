@@ -6,6 +6,7 @@
 
 ## Yönetim <a id="yonetim"></a>
 
+* [🚀 YEmoji](yonetim/yemoji.md)
 * [📑 İçerik Yönetimi](yonetim/icerik-yonetimi.md)
 * [💖 Katkıda Bulunma Rehberi](yonetim/katkida-bulunma-rehberi.md)
 
