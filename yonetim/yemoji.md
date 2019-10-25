@@ -16,6 +16,8 @@ Emojiler görsel objeler olduğundan metinlere nazaran daha anlaşılırdır
 
 Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 
+> 🤸‍♂️ [GitHub Emoji Cheet Sheats](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#emoji-cheat-sheet)'e bakmanda da fayda olabilir
+
 {% hint style="danger" %}
 İşletim sistemleri tarafından emoji olarak algılanmayanları kullanmayınız.
 {% endhint %}
