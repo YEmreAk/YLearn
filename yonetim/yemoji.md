@@ -61,6 +61,7 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | 🌄 | dağ | dağların arasında güneşin doğuşu | Yeniden doğuş, yeniden başlatma, release |
 | 🔱 | üçlü | üçlü çatal işareti | Verimlilik başlığı |
 | 📈 | grafik | artış grafiği | Verimlilik, üretkenlik, arttırma, artış |
+| 📉 | grafik | iniş grafiği | Düşük verim, karmaşıklık artması, azalma |
 | 📊 | grafik | çubuk grafiği | Tablo, veri bilimi |
 | 📃 | sayfa | kıvrık sayfa | Sayfa |
 | ➰ | kıvrık | kıvrık döngü | Kısayol |
