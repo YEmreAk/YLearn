@@ -56,9 +56,9 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | ✨ | parıltı | parıltı | yenilik, güzelleştirme, özelleştirme |
 | 👀 | göz | gözler | Merak, bakmak, göz atmak, içerikler |
 | ⛅ | bulut | bulutların ardındaki güneş | Bulut, sunucu |
-| 🌄 | dağ | dağların arasında güneşin doğuşu | ? |
+| 🌄 | dağ | dağların arasında güneşin doğuşu | Yeniden doğuş, yeniden başlatma, release |
 | 🔱 | üçlü | üçlü çatal işareti | Verimlilik başlığı |
-| 📈 | grafik | artış grafiği | Verimlilik, üretkenlik |
+| 📈 | grafik | artış grafiği | Verimlilik, üretkenlik, arttırma, artış |
 | 📊 | grafik | çubuk grafiği | Tablo, veri bilimi |
 | 📃 | sayfa | kıvrık sayfa | Sayfa |
 | ➰ | kıvrık | kıvrık döngü | Kısayol |
@@ -84,11 +84,14 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | ⌛ | kum | kum saati | Zaman, vakit, süre |
 | ✍ | yazı | yazı yazan el | Kişisel yazılar, el yazıları, notlarım |
 | 🤖 | robot | robot | Robot, bot, model |
-| 🤿 | dalgıç | dalgıç | Derin, deep, deer learning |
+| 🤿 | dalgıç | dalgıç | Derin, deep, deer learning ⚠ |
 | 🤝 | el sık | el sıkışma | Yardım, destek |
 | 🙋‍♂️ | el kaldır | el kaldıran erkek | Karşılama, hoş geldin, selam |
 | 🎤 | mikro | mikrofon | Ön söz, sesleniş |
 | 🧐 | tek cam | tek cam gözlüklü yüz | İnceleme, detaylandırma, detaylı bakmak |
 | 🌍 | dünya | yerkürede Avrupa-Afrika | Tüm içerikler, web sayfaları, internet, web |
 | 🏫 | okul | okul | Okul, üniversite |
+| ➕ | + | artı işareti | Ekleme, toplama |
+| ➖ | - | eksi işareti | Çıkarma, eksiltme |
+| ➗ | böl | bölü işareti | Bölme |
 
