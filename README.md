@@ -8,7 +8,9 @@ description: Öğrenme bağlantıları ve yollarını içerir.
 
 Bu sitenin amacı, öğrenme yollarını daha anlaşılır ve temiz halde sunmaktır.
 
-> Öğrenmek istediğin konular hakkında detaylı bilgiyi [🥽 Yabancı Kaynaklar](awesome.md) alanında görebilirsin.
+{% hint style="info" %}
+Öğrenmek istediğin konular hakkında detaylı bilgiyi [🥽 Yabancı Kaynaklar](awesome.md) alanında görebilirsin.
+{% endhint %}
 
 ![](.gitbook/assets/image%20%281%29.png)
 
