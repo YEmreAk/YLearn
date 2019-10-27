@@ -34,6 +34,7 @@ Bu alan yapım aşamasındadır.
 | 🐛 | bö | böcek | Bug, error, hata |
 | 📑 | sayfa a | sayfa ayıracı | Kod notları, ara notlar, ufak notlar ekleme |
 | ✍ | yazı | yazı yazan el | Kişisel yazılar, imza |
+| 🙄 | gözleri | gözlerini deviren yüz | Önemsiz işlemleri |
 
 ## 🎀 Emoji Sözlüğü Kullanımı
 
