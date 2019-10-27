@@ -35,6 +35,7 @@ Bu alan yapım aşamasındadır.
 | 📑 | sayfa a | sayfa ayıracı | Kod notları, ara notlar, ufak notlar ekleme |
 | ✍ | yazı | yazı yazan el | Kişisel yazılar, imza |
 | 🙄 | gözleri | gözlerini deviren yüz | Önemsiz işlemleri |
+| 🚙 | cip | cip | Taşıma, yeniden konumlandırma |
 
 ## 🎀 Emoji Sözlüğü Kullanımı
 
