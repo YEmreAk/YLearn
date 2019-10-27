@@ -12,6 +12,28 @@ Emojiler görsel objeler olduğundan metinlere nazaran daha anlaşılırdır
 * 🧐 Bir sonraki konunun, ne ile alakalı olduğunu sade bir şekilde özetler
 * 💘 Dekoratif anlamda da dokümana renk katar
 
+## 👨‍💻 Geliştirici Commit'leri için Emoji Sözlüğü
+
+Tüm commit işlemleri buradaki kurallara uyuma sağlamalıdır.
+
+{% hint style="warning" %}
+Bu alan yapım aşamasındadır.
+{% endhint %}
+
+| Emoji | Anahtar | Aslı | Kullanım Alanı |
+| :--- | :--- | :--- | :--- |
+| ✨ | parıltı | parıltı | Yenilik, güzelleştirme, özelleştirme |
+| 🧹 | süpürge | süpürge | Temizlik, silme, kaldırma |
+| 🎉 | part | parti konfetisi | İlk işlem, yeni giriş, initial commit |
+| 🔀 | parça k | parça karıştırma düğmesi | Branch ekleme, merge |
+| 📃 | sayfa | kıvrık sayfa | Metin dosyası ekleme |
+| 🤝 | el sı | el sıkışma | Destek ekleme, destekleme, support |
+| 📖 | kit | açık kitap | Doküman ekleme |
+| 💫 | baş d | baş dönmesi | Entegrasyon, senkronizasyon |
+| 👨‍🔧 | tamir | erkek tamirci | Düzeltme, onarma |
+| 🐛 | bö | böcek | Bug, error, hata |
+| 📑 | sayfa a | sayfa ayıracı | Kod notları ekleme |
+
 ## 🎀 Emoji Sözlüğü Kullanımı
 
 Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
