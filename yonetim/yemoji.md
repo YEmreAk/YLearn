@@ -98,4 +98,5 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | ➕ | + | artı işareti | Ekleme, toplama |
 | ➖ | - | eksi işareti | Çıkarma, eksiltme |
 | ➗ | böl | bölü işareti | Bölme |
+| 🎲 | zar | oyun zarı | Karma, rasgele, random, karışık |
 
