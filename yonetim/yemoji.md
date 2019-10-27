@@ -32,7 +32,8 @@ Bu alan yapım aşamasındadır.
 | 💫 | baş d | baş dönmesi | Entegrasyon, senkronizasyon |
 | 👨‍🔧 | tamir | erkek tamirci | Düzeltme, onarma |
 | 🐛 | bö | böcek | Bug, error, hata |
-| 📑 | sayfa a | sayfa ayıracı | Kod notları ekleme |
+| 📑 | sayfa a | sayfa ayıracı | Kod notları, ara notlar, ufak notlar ekleme |
+| ✍ | yazı | yazı yazan el | Kişisel yazılar, imza |
 
 ## 🎀 Emoji Sözlüğü Kullanımı
 
@@ -121,4 +122,7 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | ➖ | - | eksi işareti | Çıkarma, eksiltme |
 | ➗ | böl | bölü işareti | Bölme |
 | 🎲 | zar | oyun zarı | Karma, rasgele, random, karışık |
+| ❔ | ? | beyaz soru işareti | Soru |
+| ⏫ | hızlı y | hızlı yukarı düğmesi | Yükleme, upload |
+| ⏬ | hızlı a | hızlı aşağı düğmesi | İndirme, download |
 
