@@ -12,6 +12,7 @@
 
 ## İçerikler
 
+* [🔍 Araştırma Teknikleri](icerikler/arastirma-teknikleri.md)
 * [🎇 Windows 10](icerikler/windows-10.md)
 * [👨‍💻 Programlama](icerikler/algoritma.md)
 * [🐍 Python](icerikler/python.md)
