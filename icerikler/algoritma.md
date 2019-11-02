@@ -10,6 +10,10 @@ description: Algoritma kurmayı öğrenme bağlantıları
 
 {% embed url="https://wiki.yemreak.com/programlama-notlari/genel-notlar" %}
 
+{% embed url="https://codelabs.developers.google.com/" %}
+
+
+
 
 
 
