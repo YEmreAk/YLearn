@@ -12,7 +12,6 @@
 
 ## İçerikler
 
-* [🔍 Araştırma Teknikleri](icerikler/arastirma-teknikleri.md)
 * [🎇 Windows 10](icerikler/windows-10.md)
 * [👨‍💻 Programlama](icerikler/algoritma.md)
 * [🐍 Python](icerikler/python.md)
@@ -22,4 +21,8 @@
 * [🤿 Derin Öğrenme](icerikler/derin-ogrenme.md)
 * [🍎 MacOS](icerikler/macos.md)
 * [📱 Android](icerikler/android.md)
+
+## Deneysel
+
+* [🔍 Araştırma Teknikleri](deneysel/arastirma-teknikleri.md)
 
