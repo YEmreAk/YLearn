@@ -12,6 +12,7 @@
 
 ## İçerikler
 
+* [🧰 Faydalı Siteler](icerikler/faydali-siteler.md)
 * [🎇 Windows 10](icerikler/windows-10.md)
 * [👨‍💻 Programlama](icerikler/algoritma.md)
 * [🐍 Python](icerikler/python.md)
@@ -21,7 +22,6 @@
 * [🤿 Derin Öğrenme](icerikler/derin-ogrenme.md)
 * [🍎 MacOS](icerikler/macos.md)
 * [📱 Android](icerikler/android.md)
-* [🧰 Faydalı Siteler](icerikler/faydali-siteler.md)
 
 ## Deneysel
 
