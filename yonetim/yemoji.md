@@ -127,4 +127,6 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | ❔ | ? | beyaz soru işareti | Soru |
 | ⏫ | hızlı y | hızlı yukarı düğmesi | Yükleme, upload |
 | ⏬ | hızlı a | hızlı aşağı düğmesi | İndirme, download |
+| 💚 | yeşil k | yeşil kalp | Avantaj |
+| 💔 | kırı | kırık kalp | Dezavantaj |
 
