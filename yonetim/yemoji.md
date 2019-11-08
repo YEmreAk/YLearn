@@ -129,4 +129,6 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | ⏬ | hızlı a | hızlı aşağı düğmesi | İndirme, download |
 | 💚 | yeşil k | yeşil kalp | Avantaj |
 | 💔 | kırı | kırık kalp | Dezavantaj |
+| 🍒 | kir | kiraz | Grup, kategori |
+| 📋 | pano | pano | Liste, pano, maddeler |
 
