@@ -4,6 +4,10 @@ description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 
 # 👩‍🏫 Makine Öğrenimi
 
+## 📍 Makine Öğrenimi Haritası
+
+![](../.gitbook/assets/image%20%282%29.png)
+
 ## 🌎 Faydalı Siteler
 
 {% embed url="https://github.com/YEmreAk/ML-Notbooks" %}
