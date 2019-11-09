@@ -8,7 +8,7 @@
 
 * [🚀 YEmoji](yonetim/yemoji.md)
 * [📑 İçerik Yönetimi](yonetim/icerik-yonetimi.md)
-* [💖 Katkıda Bulunma Rehberi](yonetim/katkida-bulunma-rehberi.md)
+* [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 
 ## İçerikler
 
