@@ -69,7 +69,7 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | 🎶 | müzik | müzik notaları | Ses, şarkı, müzik |
 | 🔉 | ses | ses açık | Ses dosyaları, `.waw` |
 | 👨‍💼 | yönetici | erkek ofis çalışanı | Yönetim, yönetici, manager |
-| 🧩 | yapboz | yapboz | Parça, git |
+| 🧩 | yapboz | yapboz | Parça, git, format |
 | 🖤 | kalp | siyah kalp | Terminal, siyah ekran |
 | ⛺ | çadır | çadır | Genel, karışık |
 | 🌞 | güneş | güneş yüz | Yardımcı basit araç, hayat kurtaran durum, fırsat |
