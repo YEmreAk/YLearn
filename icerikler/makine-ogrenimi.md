@@ -6,7 +6,7 @@ description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 
 ## 🌎 Faydalı Siteler
 
-{% embed url="https://ai.yemreak.com/0.2-machine-learninig-notebooks/0-aciklama" %}
+{% embed url="https://github.com/YEmreAk/ML-Notbooks" %}
 
 {% embed url="https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12" %}
 

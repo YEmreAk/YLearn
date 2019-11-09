@@ -8,8 +8,6 @@ description: Yapay zeka (artificial intelligence) öğrenme bağlantıları
 
 {% embed url="https://stanford.edu/~shervine/teaching/" %}
 
-
-
 ## 🌎 Türkçe Yapay Zeka Kaynakları
 
 {% embed url="https://ai.yemreak.com" caption="Yapay Zeka ~ YEmreAk" %}
