@@ -4,7 +4,11 @@ description: "Bir konuyu tüm detaylarına kadar anlatan dökümanların topland
 
 # 🥽 Yabancı Kaynaklar
 
-## 🗽 Açıklama <a id="aciklama"></a>
+## 🌍 Benzer Çalışmalar <a id="aciklama"></a>
+
+{% embed url="https://learn-anything.xyz/" %}
+
+## 📌 Açıklama <a id="aciklama"></a>
 
 ​[​![Awesome](https://awesome.re/badge-flat.svg)​](https://awesome.re/) adlı projeden alıntıdır
 

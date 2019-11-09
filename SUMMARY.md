@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👨‍🏫 YLearn](README.md)
-* [⭐ Benzer Çalışmalar](benzer-calismalar.md)
+* [🚀 Türkçe Kaynaklar](https://turkcekaynaklar.com/)
 * [🥽 Yabancı Kaynaklar](awesome.md)
 
 ## Yönetim <a id="yonetim"></a>

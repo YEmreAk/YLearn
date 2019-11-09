@@ -10,9 +10,11 @@ description: Yapay zeka (artificial intelligence) öğrenme bağlantıları
 
 
 
-## 🌎 Faydalı Siteler
+## 🌎 Türkçe Yapay Zeka Kaynakları
 
 {% embed url="https://ai.yemreak.com" caption="Yapay Zeka ~ YEmreAk" %}
+
+{% embed url="https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari" %}
 
 ## 📚Kütüphaneler
 
