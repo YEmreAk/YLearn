@@ -9,19 +9,16 @@
 * [🚀 YEmoji](yonetim/yemoji.md)
 * [📑 İçerik Yönetimi](yonetim/icerik-yonetimi.md)
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
-
-## İçerikler
-
-* [🧰 Faydalı Siteler](icerikler/faydali-siteler.md)
-* [🎇 Windows 10](icerikler/windows-10.md)
-* [👨‍💻 Programlama](icerikler/algoritma.md)
-* [🐍 Python](icerikler/python.md)
-* [📊 Veri Bilimi](icerikler/veri-bilimi.md)
-* [👩‍🏫 Makine Öğrenimi](icerikler/makine-ogrenimi.md)
-* [🧠 Yapay Zeka](icerikler/yapay-zeka.md)
-* [🤿 Derin Öğrenme](icerikler/derin-ogrenme.md)
-* [🍎 MacOS](icerikler/macos.md)
-* [📱 Android](icerikler/android.md)
+* [🧰 Faydalı Siteler](faydali-siteler.md)
+* [🎇 Windows 10](windows-10.md)
+* [👨‍💻 Programlama](algoritma.md)
+* [🐍 Python](python.md)
+* [📊 Veri Bilimi](veri-bilimi.md)
+* [👩‍🏫 Makine Öğrenimi](makine-ogrenimi.md)
+* [🧠 Yapay Zeka](yapay-zeka.md)
+* [🤿 Derin Öğrenme](derin-ogrenme.md)
+* [🍎 MacOS](macos.md)
+* [📱 Android](android.md)
 
 ## Deneysel
 
