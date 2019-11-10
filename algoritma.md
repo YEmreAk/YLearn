@@ -6,6 +6,10 @@ description: Algoritma kurmayı öğrenme bağlantıları
 
 ## 🌎 Faydalı Siteler
 
+### Ücretsiz
+
+{% embed url="https://education.github.com/" caption="Github Education ile çoğu premium içeriğe ücretsiz erişebilirsiniz" %}
+
 {% embed url="https://asmaamirkhan.gitbook.io/programlama-kitpcik/" caption="Programlama temellerini öğreten, öğrenciler tarafından hazırlanan kitapçık" %}
 
 {% embed url="https://wiki.yemreak.com/programlama-notlari/genel-notlar" %}
