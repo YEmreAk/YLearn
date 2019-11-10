@@ -2,7 +2,7 @@
 
 * [👨‍🏫 YLearn](README.md)
 * [🚀 Türkçe Kaynaklar](https://turkcekaynaklar.com/)
-* [🥽 Yabancı Kaynaklar](awesome.md)
+* [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com)
 
 ## Yönetim <a id="yonetim"></a>
 
