@@ -1,14 +1,14 @@
 # Table of contents
 
 * [👨‍🏫 YLearn](README.md)
-* [🚀 Türkçe Kaynaklar](https://turkcekaynaklar.com/)
+* [🌙 Türkçe Kaynaklar](https://turkcekaynaklar.com/)
 * [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com)
 
 ## Yönetim <a id="yonetim"></a>
 
 * [🚀 YEmoji](yonetim/yemoji.md)
-* [📑 İçerik Yönetimi](yonetim/icerik-yonetimi.md)
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
+* [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
 * [🧰 Faydalı Siteler](faydali-siteler.md)
 * [🎇 Windows 10](windows-10.md)
 * [👨‍💻 Programlama](algoritma.md)
