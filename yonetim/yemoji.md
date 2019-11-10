@@ -138,4 +138,6 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | 🎪 | sirk | sirk | Animasyonlar |
 | 🚧 | inşa | inşaat | Yapım aşamasında, inşaat, hazırlanıyor |
 | 🧪 | deney t | deney tüpü | Deneysel, beta, test |
+| 🐥 | önd | önden civciv | Front-end, ön tasarım |
+| 🐣 | civ | yumurtadan çıkan civciv | Back-end, arkaplan tasarımı |
 

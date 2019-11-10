@@ -10,16 +10,16 @@
 * [📑 İçerik Yönetimi](yonetim/icerik-yonetimi.md)
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [🧰 Faydalı Siteler](faydali-siteler.md)
-* [🌍 Web Programlama](web-programlama.md)
 * [🎇 Windows 10](windows-10.md)
 * [👨‍💻 Programlama](algoritma.md)
 * [🐍 Python](python.md)
-* [📊 Veri Bilimi](veri-bilimi.md)
+* [📱 Android](android.md)
 * [👩‍🏫 Makine Öğrenimi](makine-ogrenimi.md)
 * [🧠 Yapay Zeka](yapay-zeka.md)
+* [🌍 Web Programlama](web-programlama.md)
+* [📊 Veri Bilimi](veri-bilimi.md)
 * [🌊 Derin Öğrenme](derin-ogrenme.md)
 * [🍎 MacOS](macos.md)
-* [📱 Android](android.md)
 
 ## Deneysel
 
