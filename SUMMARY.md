@@ -10,6 +10,7 @@
 * [📑 İçerik Yönetimi](yonetim/icerik-yonetimi.md)
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [🧰 Faydalı Siteler](faydali-siteler.md)
+* [🌍 Web Programlama](web-programlama.md)
 * [🎇 Windows 10](windows-10.md)
 * [👨‍💻 Programlama](algoritma.md)
 * [🐍 Python](python.md)
