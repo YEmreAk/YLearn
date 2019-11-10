@@ -12,6 +12,10 @@ description: Algoritma kurmayı öğrenme bağlantıları
 
 {% embed url="https://codelabs.developers.google.com/" %}
 
+#### ✨ Farklı düzeylerde örnek sorular için
+
+{% embed url="https://www.hackerrank.com/domains/algorithms?badge\_type=problem-solving" %}
+
 
 
 
