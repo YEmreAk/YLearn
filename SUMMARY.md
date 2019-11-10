@@ -16,7 +16,7 @@
 * [📊 Veri Bilimi](veri-bilimi.md)
 * [👩‍🏫 Makine Öğrenimi](makine-ogrenimi.md)
 * [🧠 Yapay Zeka](yapay-zeka.md)
-* [🤿 Derin Öğrenme](derin-ogrenme.md)
+* [🌊 Derin Öğrenme](derin-ogrenme.md)
 * [🍎 MacOS](macos.md)
 * [📱 Android](android.md)
 

@@ -2,7 +2,7 @@
 description: Derin Öğrenme (deep learning) öğrenme bağlantıları
 ---
 
-# 🤿 Derin Öğrenme
+# 🌊 Derin Öğrenme
 
 ## 🎇 Evrişimli Sinir Ağları \(CNN\)
 

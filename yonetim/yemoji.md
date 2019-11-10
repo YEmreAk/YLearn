@@ -16,8 +16,10 @@ Emojiler görsel objeler olduğundan metinlere nazaran daha anlaşılırdır
 
 Tüm commit işlemleri buradaki kurallara uyuma sağlamalıdır.
 
+> 🤔 İleride buna uygun python CLI yazılabilir
+
 {% hint style="warning" %}
-Bu alan yapım aşamasındadır.
+🚧 Bu alan yapım aşamasındadır.
 {% endhint %}
 
 | Emoji | Anahtar | Aslı | Kullanım Alanı |
@@ -36,6 +38,8 @@ Bu alan yapım aşamasındadır.
 | ✍ | yazı | yazı yazan el | Kişisel yazılar, imza |
 | 🙄 | gözleri | gözlerini deviren yüz | Önemsiz işlemleri |
 | 🚙 | cip | cip | Taşıma, yeniden konumlandırma |
+| 🧪 | deney t  | deney tüpü | Deneysel, beta |
+| 🚧 | inş | inşaat | Yapım aşamasında, in progress |
 
 ## 🎀 Emoji Sözlüğü Kullanımı
 
@@ -131,4 +135,7 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | 💔 | kırı | kırık kalp | Dezavantaj |
 | 🍒 | kir | kiraz | Grup, kategori |
 | 📋 | pano | pano | Liste, pano, maddeler |
+| 🎪 | sirk | sirk | Animasyonlar |
+| 🚧 | inşa | inşaat | Yapım aşamasında, inşaat, hazırlanıyor |
+| 🧪 | deney t | deney tüpü | Deneysel, beta, test |
 
