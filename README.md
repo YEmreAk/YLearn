@@ -14,8 +14,6 @@ description: Öğrenme yollarını daha anlaşılır ve temiz halde sunma çalı
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing) alanından projeye katkıda bulunabilirsin
 * Tüm emojiler [🚀 YEmoji](https://learn.yemreak.com/yonetim/yemoji) sözlüğüne uygun olarak seçilmektedir
 
->
-
 {% hint style="info" %}
 [🌙 Türkçe Kaynaklar](https://turkcekaynaklar.com/) ve [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com/) alanına göz atmayı unutma
 {% endhint %}
