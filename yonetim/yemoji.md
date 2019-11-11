@@ -140,4 +140,6 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | 🧪 | deney t | deney tüpü | Deneysel, beta, test |
 | 🐥 | önd | önden civciv | Front-end, ön tasarım |
 | 🐣 | civ | yumurtadan çıkan civciv | Back-end, arkaplan tasarımı |
+| 👁‍🗨 | göz | konuşma balonunda göz | Analiz, incelemek, bakmak |
+| ⭕ | çember | kalın kırmızı çember | Küme |
 
