@@ -18,3 +18,7 @@ description: Python öğrenme bağlantıları
 
 {% embed url="https://data-flair.training/blogs/python-tutorial/" %}
 
+## 👓 Awesome Python
+
+{% embed url="https://github.com/vinta/awesome-python" %}
+
