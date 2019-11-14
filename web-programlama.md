@@ -12,6 +12,8 @@ description: >-
 
 {% embed url="https://alligator.io/" %}
 
+{% embed url="https://devdocs.io/" %}
+
 {% embed url="https://www.smashingmagazine.com/" %}
 
 {% embed url="https://frontendmasters.com/" %}
