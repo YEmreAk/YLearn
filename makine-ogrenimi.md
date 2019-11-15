@@ -16,10 +16,6 @@ description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 
 {% embed url="https://toolbox.google.com/datasetsearch" caption="🔎 Farklı konularla ilgili veri seti arama" %}
 
-
-
-
-
 ## 🏫 Stanford Kaynakları
 
 ### 🔎 Gözetimli Öğrenme
