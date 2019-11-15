@@ -1,7 +1,6 @@
 # Table of contents
 
 * [👨‍🏫 YLearn](README.md)
-* [🌙 Türkçe Kaynaklar](https://turkcekaynaklar.com/)
 * [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com)
 
 ## Yönetim <a id="yonetim"></a>

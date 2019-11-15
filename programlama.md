@@ -16,9 +16,13 @@ description: Algoritma kurmayı öğrenme bağlantıları
 
 {% embed url="https://wiki.yemreak.com/programlama-notlari/genel-notlar" %}
 
+{% embed url="https://turkcekaynaklar.com/" %}
+
+{% embed url="https://docs.microsoft.com/tr-tr/learn/browse/" %}
+
 {% embed url="https://codelabs.developers.google.com/" %}
 
-### 💰 Ücretsiz Kaynaklar ve Destekler
+## 💰 Ücretsiz Kaynaklar ve Destekler
 
 {% embed url="https://wiki.yemreak.com/kisisel-yazilarim/uecretsiz-avantajlar" %}
 
