@@ -4,13 +4,17 @@ description: Yapay zeka (artificial intelligence) öğrenme bağlantıları
 
 # 🧠 Yapay Zeka
 
+## 🌟 Faydalı Kaynaklar
+
+{% embed url="https://ai.yemreak.com/faydali-kaynaklar" %}
+
 ## 🏫 Stanford Cheet Sheets
 
 {% embed url="https://stanford.edu/~shervine/teaching/" %}
 
 ## 🌎 Türkçe Yapay Zeka Kaynakları
 
-{% embed url="https://ai.yemreak.com" caption="Yapay Zeka ~ YEmreAk" %}
+{% embed url="https://ai.yemreak.com/" %}
 
 {% embed url="https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari" %}
 
