@@ -75,7 +75,6 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | 🔉 | ses | ses açık | Ses dosyaları, `.waw` |
 | 👨‍💼 | yönetici | erkek ofis çalışanı | Yönetim, yönetici, manager |
 | 🧩 | yapboz | yapboz | Parça, git, format |
-| 🖤 | kalp | siyah kalp | Terminal, siyah ekran |
 | ⛺ | çadır | çadır | Genel, karışık |
 | 🌞 | güneş | güneş yüz | Yardımcı basit araç, hayat kurtaran durum, fırsat |
 | 📶 | sinyal | sinyal gücü | Haberleşme, sinyal, kablosuz |
@@ -113,7 +112,6 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | 🎨 | sanat | boya paleti | Sanat, tasarım, boya |
 | 🏁 | damalı | damalı bayrak | Bitiş, son, final, sonuç |
 | 🎌 | çapraz | çapraz bayraklar | Talimatlar, başlangıç |
-| 💖 | kalp | parıldayan kalp | Destek, bağış |
 | 🚀 | roket | roket | Çok güzel, çok yeni, mükemmel |
 | ⌛ | kum | kum saati | Zaman, vakit, süre |
 | ✍ | yazı | yazı yazan el | Kişisel yazılar, el yazıları, notlarım |
@@ -132,7 +130,11 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | ❔ | ? | beyaz soru işareti | Soru |
 | ⏫ | hızlı y | hızlı yukarı düğmesi | Yükleme, upload |
 | ⏬ | hızlı a | hızlı aşağı düğmesi | İndirme, download |
+| 💖 | kalp | parıldayan kalp | Destek, bağış |
+| 🖤 | kalp | siyah kalp | Terminal, siyah ekran |
 | 💚 | yeşil k | yeşil kalp | Avantaj |
+| 💛 | sarı | sarı kalp | Yardımcı, ek, faydalı |
+| 💜 | mor | mor kalp | ? |
 | 💔 | kırı | kırık kalp | Dezavantaj |
 | 🍒 | kir | kiraz | Grup, kategori |
 | 📋 | pano | pano | Liste, pano, maddeler |
