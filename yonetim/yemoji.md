@@ -143,4 +143,5 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | 🐣 | civ | yumurtadan çıkan civciv | Back-end, arkaplan tasarımı |
 | 👁‍🗨 | göz | konuşma balonunda göz | Analiz, incelemek, bakmak |
 | ⭕ | çember | kalın kırmızı çember | Küme |
+| ☕ | kahve | sıcak içecek | Java, kahve |
 

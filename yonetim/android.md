@@ -6,7 +6,7 @@ description: Mobil programlamada kullanılan dil
 
 ## 📕 Faydalı Kitaplar
 
-{% file src=".gitbook/assets/android-developer-fundementals-course.pdf" %}
+{% file src="../.gitbook/assets/android-developer-fundementals-course.pdf" %}
 
 ## 🌍 Faydalı Siteler
 
