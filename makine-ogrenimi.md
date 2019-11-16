@@ -14,7 +14,7 @@ description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 
 {% embed url="https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12" %}
 
-{% embed url="https://toolbox.google.com/datasetsearch" caption="🔎 Farklı konularla ilgili veri seti arama" %}
+{% embed url="https://www.turkhackteam.org/python/1637291-python-machine-learninge-giris-tht-ar-ge-kulubu.html" %}
 
 ## 🏫 Stanford Kaynakları
 
