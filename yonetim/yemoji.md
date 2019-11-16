@@ -62,6 +62,7 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | 🎇 | havai | fişek | Güncel |
 | 🔡 | küçük | küçük harfler | String, harf, alfabe |
 | 💠 | karo | içinde noktalı karo | Metot, sınıf, fonksiyon |
+| 💎 | elmas | elmas | Terimler, değişkenler, özel şeyler |
 | 📁 | dosya | dosya | Dosya, dizin, klasör |
 | 🤯 | patlama | patlayan kafa | Gelişmiş, üst seviye, yorucu |
 | 🔗 | bağlantı | bağlantı | Bağlantı, link |
