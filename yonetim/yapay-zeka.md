@@ -24,5 +24,7 @@ description: Yapay zeka (artificial intelligence) öğrenme bağlantıları
 
 {% embed url="https://imageai.readthedocs.io/en/latest/" %}
 
+## 📋 Bağlantı Listesi
 
+* [Raspberry PI ile nesne tanıma](https://www.linkedin.com/posts/zaferdemirkol_zaferdemirkol-kasaftm2019-machinelearning-activity-6602462848222404609-hsWx)
 
