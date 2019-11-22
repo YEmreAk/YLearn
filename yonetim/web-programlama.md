@@ -6,6 +6,10 @@ description: >-
 
 # 🌍 Web Programlama
 
+## ✨ Dizayn & Tasarım
+
+{% embed url="https://github.com/alexpate/awesome-design-systems" %}
+
 ## 🐥 Front-end
 
 {% embed url="https://css-tricks.com/" %}
