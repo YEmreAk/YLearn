@@ -12,6 +12,8 @@ description: Algoritma kurmayı öğrenme bağlantıları
 
 {% embed url="https://www.hackerrank.com/domains/algorithms?badge\_type=problem-solving" %}
 
+{% embed url="https://github.com/TheAlgorithms" %}
+
 ## 🌎 Faydalı Siteler
 
 {% embed url="https://wiki.yemreak.com/programlama-notlari/genel-notlar" %}
@@ -22,11 +24,13 @@ description: Algoritma kurmayı öğrenme bağlantıları
 
 {% embed url="https://codelabs.developers.google.com/" %}
 
-## 💰 Ücretsiz Kaynaklar ve Destekler
+## 💰 Öğrencilere Destekler
 
 {% embed url="https://wiki.yemreak.com/kisisel-yazilarim/uecretsiz-avantajlar" %}
 
+## 🧪 Bilgisayar Bilimi
 
+{% embed url="https://github.com/jwasham/coding-interview-university" %}
 
 
 
