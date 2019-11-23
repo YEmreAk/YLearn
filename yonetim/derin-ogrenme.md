@@ -16,5 +16,9 @@ description: Derin Öğrenme (deep learning) öğrenme bağlantıları
 
 {% embed url="https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks" %}
 
+### 💬 Doğal Dil İşleme Kaynakları
+
+{% embed url="https://github.com/keon/awesome-nlp" %}
+
 
 
