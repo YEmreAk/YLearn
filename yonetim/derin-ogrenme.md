@@ -4,6 +4,10 @@ description: Derin Öğrenme (deep learning) öğrenme bağlantıları
 
 # 🌊 Derin Öğrenme
 
+### 📚 Faydalı Kurslar
+
+{% embed url="https://www.coursera.org/specializations/deep-learning" %}
+
 ## 🎇 Evrişimli Sinir Ağları \(CNN\)
 
 {% embed url="https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-convolutional-neural-networks" %}

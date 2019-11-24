@@ -8,6 +8,10 @@ description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
+### 📚 Faydalı Kurslar
+
+{% embed url="https://www.coursera.org/learn/machine-learning" %}
+
 ## 🌎 Faydalı Siteler
 
 {% embed url="https://github.com/YEmreAk/ML-Notbooks" %}
