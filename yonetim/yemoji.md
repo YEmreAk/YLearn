@@ -146,4 +146,6 @@ Tüm emojiler buradaki yapılandırmaya uyum sağlamalıdır.
 | 👁‍🗨 | göz | konuşma balonunda göz | Analiz, incelemek, bakmak |
 | ⭕ | çember | kalın kırmızı çember | Küme |
 | ☕ | kahve | sıcak içecek | Java, kahve |
+| 🤞 | şans | şans dileme | Yöntem, trick, numaralar |
+| 📢 | hop | hoparlör | Duyuru, bildirim |
 
