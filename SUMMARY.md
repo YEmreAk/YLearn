@@ -2,6 +2,7 @@
 
 * [👨‍🏫 YLearn](README.md)
 * [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com)
+* [🚀 YEmoji](https://emoji.yemreak.com)
 
 ## Yönetim <a id="yonetim"></a>
 
