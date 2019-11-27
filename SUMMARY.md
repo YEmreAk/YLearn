@@ -6,7 +6,6 @@
 
 ## Yönetim <a id="yonetim"></a>
 
-* [🚀 YEmoji](yonetim/yemoji.md)
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
 * [🧰 Faydalı Siteler](yonetim/faydali-siteler.md)
