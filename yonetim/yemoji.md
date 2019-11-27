@@ -12,6 +12,14 @@ Emojiler görsel objeler olduğundan metinlere nazaran daha anlaşılırdır
 * 🧐 Bir sonraki konunun, ne ile alakalı olduğunu sade bir şekilde özetler
 * 💘 Dekoratif anlamda da dokümana renk katar
 
+## 🔰 Emojileri Kullanma
+
+Emojiler, aşağıdaki sebeplerden dolayı cümle veya metinlerin ilk başına eklenmelidir
+
+* 🤯 Sonrasındakilerin algılanmasını artırır
+* 😵 Yazı karmaşasını ortadan kaldırır
+* 🧱 Hizalamayı artırır
+
 ## 👨‍💻 Geliştirici Commit'leri için Emoji Sözlüğü
 
 Tüm commit işlemleri buradaki kurallara uyuma sağlamalıdır.
