@@ -12,6 +12,7 @@ description: Veri bilimi (Data Science) öğrenme bağlantıları
 
 * [🔍 Farklı konularda veri kümeleri arama](https://toolbox.google.com/datasetsearch)
 * [💱 Finansal, ekonomik ve alternatif veri kümeleri](https://www.quandl.com/)
+* 🎴 [Resim veri kümeleri arama](https://storage.googleapis.com/openimages/web/visualizer/index.html)
 
 ## 🌍 Faydalı Kaynaklar
 
