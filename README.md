@@ -12,7 +12,7 @@ description: Öğrenme yollarını daha anlaşılır ve temiz halde sunma çalı
   * Konuları veya konuyla alakalı kelimeleri ve terimleri aratabilirsin
 * 📋 İçeriklerin hepsi **sol üst köşedeki menünün** altındadır
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing) alanından projeye katkıda bulunabilirsin
-* Tüm emojiler [🚀 YEmoji](https://learn.yemreak.com/yonetim/yemoji) sözlüğüne uygun olarak seçilmektedir
+* Tüm emojiler [🚀 YEmoji](https://emoji.yemreak.com/) sözlüğüne uygun olarak seçilmektedir
 
 {% hint style="info" %}
 [🌙 Türkçe Kaynaklar](https://turkcekaynaklar.com/) ve [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com/) alanına göz atmayı unutma
