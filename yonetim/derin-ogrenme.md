@@ -4,7 +4,7 @@ description: Derin Öğrenme (deep learning) öğrenme bağlantıları
 
 # 🌊 Derin Öğrenme
 
-### 📚 Faydalı Kurslar
+## 📚 Faydalı Kurslar
 
 {% embed url="https://www.coursera.org/specializations/deep-learning" %}
 
