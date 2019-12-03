@@ -8,7 +8,7 @@ description: Öğrenme yollarını daha anlaşılır ve temiz halde sunma çalı
 
 🤓 Burada kaybolmaman için bilmen gerekenler:
 
-* **Sağ üstteki** [**🔍 Arama Buton**](https://iuce.yemreak.com/?q=) **'unu kullanmayı asla ama asla ihmal etme**
+* **Sağ üstteki** [**🔍 Arama Buton**](https://learn.yemreak.com/?=q) **'unu kullanmayı asla ama asla ihmal etme**
   * Konuları veya konuyla alakalı kelimeleri ve terimleri aratabilirsin
 * 📋 İçeriklerin hepsi **sol üst köşedeki menünün** altındadır
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing) alanından projeye katkıda bulunabilirsin
