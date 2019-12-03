@@ -8,17 +8,17 @@
 
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
-* [🧰 Faydalı Siteler](yonetim/faydali-siteler.md)
-* [📱 Android](yonetim/android.md)
-* [🌊 Derin Öğrenme](yonetim/derin-ogrenme.md)
-* [🍎 MacOS](yonetim/macos.md)
-* [👩‍🏫 Makine Öğrenimi](yonetim/makine-ogrenimi.md)
-* [👨‍💻 Programlama](yonetim/programlama.md)
-* [🐍 Python](yonetim/python.md)
-* [📊 Veri Bilimi](yonetim/veri-bilimi.md)
-* [🌍 Web Programlama](yonetim/web-programlama.md)
-* [🎇 Windows 10](yonetim/windows-10.md)
-* [🧠 Yapay Zeka](yonetim/yapay-zeka.md)
+* [🧰 Faydalı Siteler](faydali-siteler.md)
+* [📱 Android](android.md)
+* [🌊 Derin Öğrenme](derin-ogrenme.md)
+* [🍎 MacOS](macos.md)
+* [👩‍🏫 Makine Öğrenimi](makine-ogrenimi.md)
+* [👨‍💻 Programlama](programlama.md)
+* [🐍 Python](python.md)
+* [📊 Veri Bilimi](veri-bilimi.md)
+* [🌍 Web Programlama](web-programlama.md)
+* [🎇 Windows 10](windows-10.md)
+* [🧠 Yapay Zeka](yapay-zeka.md)
 
 ## Deneysel
 

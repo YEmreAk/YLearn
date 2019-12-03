@@ -6,7 +6,7 @@ description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 
 ## 📍 Makine Öğrenimi Haritası
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 ### 📚 Faydalı Kurslar
 
@@ -37,6 +37,10 @@ description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 ### 🎈 Makine Öğrenmesi İpuçları ve Püf Noktaları
 
 {% embed url="https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks" %}
+
+### 👨‍🏫 Makine Öğrenimi
+
+{% embed url="https://see.stanford.edu/Course/CS229" %}
 
 
 
