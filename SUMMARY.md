@@ -3,6 +3,7 @@
 * [👨‍🏫 YLearn](README.md)
 * [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com)
 * [🚀 YEmoji](https://emoji.yemreak.com)
+* [⭐ Benzer Çalışmalar](benzer-calismalar.md)
 
 ## Yönetim <a id="yonetim"></a>
 
