@@ -10,11 +10,9 @@ description: Mobil programlamada kullanılan dil
 
 ## 🌍 Faydalı Siteler
 
-{% embed url="https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html" %}
-
-{% embed url="https://developer.android.com/courses/fundamentals-training/overview-v2" %}
-
-{% embed url="https://developer.android.com/courses" %}
+* [👨‍🏫 Android Developer Courses](https://developer.android.com/courses)
+* [👨‍💻 Codelabs for Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/toc-v2)
+* [📖 Android Developer Fundamentals — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
 
 {% embed url="https://android.yemreak.com/" caption="YEmreAK.com" %}
 
