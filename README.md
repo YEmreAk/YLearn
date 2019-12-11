@@ -2,7 +2,7 @@
 description: Öğrenme yollarını daha anlaşılır ve temiz halde sunma çalışması.
 ---
 
-# 👨‍🏫 YLearn
+# 👨‍🏫 Öğrenme Yolları
 
 ## 🙋‍♀️ Hoş Geldin 🙋‍♂️
 

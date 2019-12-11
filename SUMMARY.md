@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👨‍🏫 YLearn](README.md)
+* [👨‍🏫 Öğrenme Yolları](README.md)
 * [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com)
 * [🚀 YEmoji](https://emoji.yemreak.com)
 * [⭐ Benzer Çalışmalar](benzer-calismalar.md)
