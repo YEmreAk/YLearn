@@ -1,5 +1,7 @@
 ---
-description: Öğrenme yollarını daha anlaşılır ve temiz halde sunma çalışması.
+description: >-
+  Yunus Emre Ak ~ YEmreAk (@yedhrab) ve destek olanların öğrenme ve öğrenme
+  yolları çalışması
 ---
 
 # 👨‍🏫 Öğrenme Yolları
