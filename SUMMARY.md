@@ -9,12 +9,12 @@
 
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
+* [👨‍💻 Programlama](programlama.md)
 * [📱 Android](android.md)
 * [🌊 Derin Öğrenme](derin-ogrenme.md)
 * [🧰 Faydalı Siteler](faydali-siteler.md)
 * [🍎 MacOS](macos.md)
 * [👩‍🏫 Makine Öğrenimi](makine-ogrenimi.md)
-* [👨‍💻 Programlama](programlama.md)
 * [🐍 Python](python.md)
 * [📊 Veri Bilimi](veri-bilimi.md)
 * [🌍 Web Programlama](web-programlama.md)

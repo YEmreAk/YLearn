@@ -6,9 +6,9 @@ description: Algoritma kurmayı öğrenme bağlantıları
 
 ## 📈 Algoritma Geliştirme
 
-{% embed url="https://www.codingame.com/" %}
-
 {% embed url="https://prog.asmaamir.com" %}
+
+{% embed url="https://www.codingame.com/" %}
 
 {% embed url="https://www.hackerrank.com/domains/algorithms?badge\_type=problem-solving" %}
 

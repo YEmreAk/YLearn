@@ -18,6 +18,8 @@ description: Python öğrenme bağlantıları
 
 {% embed url="https://data-flair.training/blogs/python-tutorial/" %}
 
+{% embed url="https://github.com/Asabeneh/30-Days-Of-Python" %}
+
 ## 🧮 Algoritma Örnekleri
 
 {% embed url="https://github.com/TheAlgorithms/Python" %}
