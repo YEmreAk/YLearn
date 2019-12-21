@@ -6,13 +6,15 @@ description: Windows 10 öğrenme bağlantıları
 
 ## 📖 Faydalı Bilgiler
 
-{% embed url="https://windows.yemreak.com/giris/sifirdan-windows-10" %}
+{% embed url="https://windows.yemreak.com/kisayollar/yhotkeys" %}
 
-{% embed url="https://windows.yemreak.com/giris/windows-10-kisayollari" %}
+{% embed url="https://windows.yemreak.com/verimlilik-notlarim" %}
+
+{% embed url="https://windows.yemreak.com/kisayollar" %}
 
 ## 🌎 Faydalı Siteler
 
-{% embed url="https://windows.yemreak.com" caption="Windows 10 ~ YEmreAk" %}
+{% embed url="https://windows.yemreak.com" caption="" %}
 
-
+{% embed url="https://github.com/Awesome-Windows/Awesome" %}
 
