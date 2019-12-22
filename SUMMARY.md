@@ -10,7 +10,7 @@
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
 * [👨‍💻 Programlama](programlama.md)
-* [👨‍💼 Proje Yönetimi](proje-yoenetimi.md)
+* [👨‍💼 Proje Yönetimi](proje-yonetimi.md)
 * [📱 Android](android.md)
 * [🌊 Derin Öğrenme](derin-ogrenme.md)
 * [🧰 Faydalı Siteler](faydali-siteler.md)
