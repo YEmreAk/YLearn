@@ -1,3 +1,7 @@
+---
+description: Proje yönetimi için faydalı kaynaklar
+---
+
 # 👨‍💼 Proje Yönetimi
 
 ## 🌍 Faydalı Siteler
