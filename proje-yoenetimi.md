@@ -1,0 +1,12 @@
+# 👨‍💼 Proje Yönetimi
+
+## 🌍 Faydalı Siteler
+
+{% embed url="https://wiki.yemreak.com/proje-yonetimi" %}
+
+## 🧩 Git
+
+{% embed url="https://wiki.yemreak.com/proje-yonetimi/git" %}
+
+{% embed url="https://book.git.yemreak.com/" %}
+
