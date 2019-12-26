@@ -20,6 +20,10 @@ description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 
 {% embed url="https://www.turkhackteam.org/python/1637291-python-machine-learninge-giris-tht-ar-ge-kulubu.html" %}
 
+{% embed url="https://www.tensorflow.org/resources/learn-ml" caption="Google\'ın önerdiği yol" %}
+
+
+
 ## 🏫 Stanford Kaynakları
 
 ### 🔎 Gözetimli Öğrenme
