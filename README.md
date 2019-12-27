@@ -26,5 +26,10 @@ description: >-
 
 ![](https://drive.google.com/uc?id=1LZoJzZyY_uYbl3zCxk6ZtZPaDiMHglMv)
 
+## 🤝 Katkı Sağlayanlar
 
+✨ Katkı sağlayan arkadaşlara çok teşekkürler \(🏆🥇🥈🥉\)
+
+* [🏆 Asmaa Mirkhan](https://asmaamir.com)
+* [🥈 Furkan Özbek](https://furkanozbek.com)
 
