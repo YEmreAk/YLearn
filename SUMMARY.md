@@ -14,6 +14,7 @@
 * [📱 Android](android.md)
 * [🌊 Derin Öğrenme](derin-ogrenme.md)
 * [🧰 Faydalı Siteler](faydali-siteler.md)
+* [☕ Java](java.md)
 * [🍎 MacOS](macos.md)
 * [👩‍🏫 Makine Öğrenimi](makine-ogrenimi.md)
 * [🐍 Python](python.md)
