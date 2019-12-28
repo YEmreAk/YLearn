@@ -16,3 +16,9 @@ description: Mobil programlamada kullanılan dil
 
 {% embed url="https://android.yemreak.com/" caption="YEmreAK.com" %}
 
+### 🧱 Proje Yapıları 
+
+#### 🌠 RoomDB Yapısı
+
+{% embed url="https://github.com/android/architecture-components-samples/tree/master/BasicSample" %}
+
