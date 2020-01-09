@@ -6,7 +6,7 @@ description: Veri bilimi (Data Science) öğrenme bağlantıları
 
 ## 🧰 Veri Bilimi Başlangıç Kiti
 
-{% embed url="https://ds.yemreak.com/data-science-notebooks/0-aciklama" %}
+{% embed url="https://github.com/YEmreAk/DS-Notebooks" %}
 
 ## 💽 Veri Kümeleri \(Dataset\)
 

@@ -36,11 +36,9 @@ description: >-
 
 {% embed url="https://cssreference.io/" %}
 
-## 🐣 Back-end
+## 👨‍💼 Web Sitesi Yönetimi
 
-## 👨‍🔬 Analizler
-
-{% embed url="https://wiki.yemreak.com/web-programlama/web-icin-kullanisli-notlar/web-sitesi-yoenetimi" %}
+{% embed url="https://web.yemreak.com/web-sitesi-yonetimi" %}
 
 ## 🌍 Faydalı Bağlantılar
 
