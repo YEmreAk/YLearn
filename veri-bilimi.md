@@ -15,11 +15,9 @@ description: Veri bilimi (Data Science) öğrenme bağlantıları
 * 🎴 [Resim veri kümeleri arama](https://storage.googleapis.com/openimages/web/visualizer/index.html)
 * [🙌 Açık kaynak veri kümeleri](https://github.com/awesomedata/awesome-public-datasets)
 
-### 🚩 Roadmap
+## 🚩 Roadmap
 
 {% embed url="https://github.com/MrMimic/data-scientist-roadmap" %}
-
-
 
 ## 🌍 Faydalı Kaynaklar
 
