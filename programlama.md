@@ -16,7 +16,7 @@ description: Algoritma kurmayı öğrenme bağlantıları
 
 ## 🌎 Faydalı Siteler
 
-{% embed url="https://lib.yemreak.com/programlama-notlari/genel-notlar" %}
+{% embed url="https://wiki.yemreak.com/programlama-notlari/genel-notlar" %}
 
 {% embed url="https://turkcekaynaklar.com/" %}
 
@@ -26,7 +26,7 @@ description: Algoritma kurmayı öğrenme bağlantıları
 
 ## 💰 Öğrencilere Destekler
 
-{% embed url="https://lib.yemreak.com/yazilar/ogrencilere-ucretsiz-yazilimlar" %}
+{% embed url="https://wiki.yemreak.com/kisisel-yazilarim/uecretsiz-avantajlar" %}
 
 ## 🧪 Bilgisayar Bilimi
 
