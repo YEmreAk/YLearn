@@ -6,11 +6,11 @@ description: Proje yönetimi için faydalı kaynaklar
 
 ## 🌍 Faydalı Siteler
 
-{% embed url="https://wiki.yemreak.com/proje-yonetimi" %}
+{% embed url="https://lib.yemreak.com/proje-yonetimi" %}
 
 ## 🧩 Git
 
-{% embed url="https://wiki.yemreak.com/proje-yonetimi/git" %}
+{% embed url="https://lib.yemreak.com/proje-yonetimi/git" %}
 
 {% embed url="https://book.git.yemreak.com/" %}
 
