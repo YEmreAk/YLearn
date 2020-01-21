@@ -6,7 +6,15 @@ description: Derin Öğrenme (deep learning) öğrenme bağlantıları
 
 ## 📚 Faydalı Kurslar
 
+#### 👩‍🏫 Derin Öğrenme Kurs Serisi
+
 {% embed url="https://www.coursera.org/specializations/deep-learning" %}
+
+#### 👷‍♀️ Tensorflow Uygulamalı Kurs
+
+{% embed url="https://www.tensorflow.org/tutorials" %}
+
+
 
 ## 📖 Faydalı Notlar
 
