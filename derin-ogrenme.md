@@ -14,8 +14,6 @@ description: Derin Öğrenme (deep learning) öğrenme bağlantıları
 
 {% embed url="https://www.tensorflow.org/tutorials" %}
 
-
-
 ## 📖 Faydalı Notlar
 
 * 🔍 Arama özelliği ile aradığınızı hızlıca bulmayı sağlar
