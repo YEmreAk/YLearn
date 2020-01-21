@@ -10,7 +10,7 @@ description: Derin Öğrenme (deep learning) öğrenme bağlantıları
 
 {% embed url="https://www.coursera.org/specializations/deep-learning" %}
 
-#### 👷‍♀️ Tensorflow Uygulamalı Kurs
+#### 👷‍♀️ Tensorflow Uygulamalı Kursu
 
 {% embed url="https://www.tensorflow.org/tutorials" %}
 

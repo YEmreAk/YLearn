@@ -44,7 +44,7 @@ description: >-
 
 {% embed url="https://www.freecodecamp.org/" %}
 
-{% embed url="https://web.yemreak.com/" %}
+{% embed url="https://wiki.yemreak.com/web-programlama" %}
 
 ### Roadmaps
 
