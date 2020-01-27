@@ -24,6 +24,10 @@ description: Python öğrenme bağlantıları
 
 {% embed url="https://github.com/TheAlgorithms/Python" %}
 
+## 🧰 Python Araçları
+
+![](.gitbook/assets/python_tools.png)
+
 ## 👓 Awesome Python
 
 {% embed url="https://github.com/vinta/awesome-python" %}
