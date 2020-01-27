@@ -9,6 +9,7 @@
 
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
+* [🗃️ SQL](sql.md)
 * [🔊 Ses](ses.md)
 * [👨‍💻 Programlama](programlama.md)
 * [👨‍💼 Proje Yönetimi](proje-yonetimi.md)
