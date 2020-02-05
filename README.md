@@ -13,7 +13,7 @@ description: >-
 * **Sağ üstteki** [**🔍 Arama Buton**](https://learn.yemreak.com/?=q) **'unu kullanmayı asla ama asla ihmal etme**
   * Konuları veya konuyla alakalı kelimeleri ve terimleri aratabilirsin
 * 📋 İçeriklerin hepsi **sol üst köşedeki menünün** altındadır
-* [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing) alanından projeye katkıda bulunabilirsin
+* [💖 Katkıda Bulunma Rehberi](https://lib.yemreak.com/contributing) alanından projeye katkıda bulunabilirsin
 * Tüm emojiler [🚀 YEmoji](https://emoji.yemreak.com/) sözlüğüne uygun olarak seçilmektedir
 
 {% hint style="info" %}

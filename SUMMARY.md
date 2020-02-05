@@ -8,7 +8,7 @@
 ## Yönetim <a id="yonetim"></a>
 
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
-* [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
+* [📘 GitBook Kullanımı](https://lib.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
 * [📱 Android](android.md)
 * [🌊 Derin Öğrenme](derin-ogrenme.md)
 * [🧰 Faydalı Siteler](faydali-siteler.md)
@@ -38,7 +38,6 @@
 * [🧠 Yapay Zeka Notlarım](https://ai.yemreak.com)
 * [🎇 Windows 10 Notlarım](https://windows.yemreak.com)
 * [🐧 Linux Notlarım](https://linux.yemreak.com)
-* [📊 Veri Bilimi Notlarım](https://ds.yemreak.com)
 * [📲 Android Notlarım](https://android.yemreak.com)
 * [☕ Java Notlarım](https://java.yemreak.com)
 * [🏫 Üniversite Notları](https://iuce.yemreak.com)
