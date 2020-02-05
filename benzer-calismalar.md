@@ -4,6 +4,12 @@ description: 'Bu çalışmaya benzer, yapılmış çalışmalar'
 
 # ⭐ Benzer Çalışmalar
 
+## 📖 Kitaplar
+
+{% embed url="https://goalkicker.com/" %}
+
+## 👪 Topluluklar
+
 {% embed url="https://github.com/freeCodeCamp/freeCodeCamp" %}
 
 {% embed url="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-tr.md\#android" %}
