@@ -16,7 +16,7 @@ description: Python öğrenme bağlantıları
 
 ## 🌟 Ayrıntılı Yabacı Kaynak
 
-{% embed url="https://data-flair.training/blogs/python-tutorial/" %}
+{% embed url="https://data-flair.training/blogs/python-tutorials-home/" %}
 
 {% embed url="https://github.com/Asabeneh/30-Days-Of-Python" %}
 
