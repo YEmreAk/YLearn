@@ -7,7 +7,7 @@
 
 ## Yönetim <a id="yonetim"></a>
 
-* [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
+* [💖 Katkıda Bulunma Rehberi](https://lib.yemreak.com/contributing)
 * [📘 GitBook Kullanımı](https://lib.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
 * [📱 Android](android.md)
 * [🌊 Derin Öğrenme](derin-ogrenme.md)
