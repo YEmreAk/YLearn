@@ -17,7 +17,7 @@ description: >-
 * Tüm emojiler [🚀 YEmoji](https://emoji.yemreak.com/) sözlüğüne uygun olarak seçilmektedir
 
 {% hint style="info" %}
-[🌙 Türkçe Kaynaklar](https://turkcekaynaklar.com/) ve [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com/) alanına göz atmayı unutma
+[🌙 Türkçe Kaynaklar](https://turkcekaynaklar.com/) alanına göz atmayı unutma
 {% endhint %}
 
 ![](.gitbook/assets/image%20%281%29.png)
