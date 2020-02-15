@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 15/02/2020 - 17:58:20 - [✨](https://github.com/YEmreAk/YLearn/commit/da183f18421f0f00ee603f0f91e9afe92c72249b?diff=split) ~ Yunus Emre
 - 14/02/2020 - 07:19:15 - [GitBook: [master] 2 pages modified](https://github.com/YEmreAk/YLearn/commit/b76facc43f0fd7258c6191dfa2965b51d19ea77e?diff=split) ~ Asmaa Mirkhan
 - 13/02/2020 - 09:20:38 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YLearn/commit/a127255ddafc3259fc556c11c713855cc98d2922?diff=split) ~ Yunus Emre
 - 13/02/2020 - 09:18:15 - [GitBook: [master] 2 pages modified](https://github.com/YEmreAk/YLearn/commit/7368891fbe52de8d8c80dd3685559cbff1959df8?diff=split) ~ Yunus Emre
