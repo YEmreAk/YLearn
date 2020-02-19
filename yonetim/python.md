@@ -20,13 +20,17 @@ description: Python öğrenme bağlantıları
 
 {% embed url="https://github.com/Asabeneh/30-Days-Of-Python" %}
 
+## 😱 Bilinmeyen Bilgiler
+
+{% embed url="https://github.com/boppreh/wtfpython" %}
+
 ## 🧮 Algoritma Örnekleri
 
 {% embed url="https://github.com/TheAlgorithms/Python" %}
 
 ## 🧰 Python Araçları
 
-![](.gitbook/assets/python_tools.png)
+![](../.gitbook/assets/python_tools.png)
 
 ## 👓 Awesome Python
 

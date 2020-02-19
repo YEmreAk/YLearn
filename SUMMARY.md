@@ -19,7 +19,7 @@
 * [👩‍🏫 Makine Öğrenimi](makine-ogrenimi.md)
 * [👨‍💻 Programlama](programlama.md)
 * [👨‍💼 Proje Yönetimi](proje-yonetimi.md)
-* [🐍 Python](python.md)
+* [🐍 Python](yonetim/python.md)
 * [🔊 Ses](ses.md)
 * [🗃️ SQL](sql.md)
 * [📊 Veri Bilimi](veri-bilimi.md)
