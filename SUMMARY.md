@@ -15,6 +15,7 @@
 * [👨‍💻 Hackathons](hackathons.md)
 * [☕ Java](java.md)
 * [📜 JavaScript](javascript.md)
+* [🎃 Kotlin](yonetim/kotlin.md)
 * [🍎 MacOS](macos.md)
 * [👩‍🏫 Makine Öğrenimi](makine-ogrenimi.md)
 * [👨‍💻 Programlama](programlama.md)
