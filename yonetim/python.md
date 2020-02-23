@@ -20,6 +20,10 @@ description: Python öğrenme bağlantıları
 
 {% embed url="https://github.com/Asabeneh/30-Days-Of-Python" %}
 
+## 🤹 Eğlenceli Kaynaklar
+
+{% embed url="https://github.com/techwithtim" %}
+
 ## 😱 Bilinmeyen Bilgiler
 
 {% embed url="https://github.com/boppreh/wtfpython" %}
