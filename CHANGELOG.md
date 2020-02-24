@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 24/02/2020 - 20:15:06 - [GitBook: [master] 3 pages modified](https://github.com/YEmreAk/YLearn/commit/47d551916f5ac251ae5c613e1fa3895d2c971da1?diff=split) ~ Yunus Emre
 - 23/02/2020 - 18:41:48 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YLearn/commit/a4a4f8fd3220bfe38b7ccfb3f65f5c72d2ea6e77?diff=split) ~ Yunus Emre
 - 21/02/2020 - 19:34:15 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YLearn/commit/11f0bc585ce575fe707b3fac999753c86454d1b7?diff=split) ~ Yunus Emre
 - 21/02/2020 - 19:26:13 - [GitBook: [master] 2 pages modified](https://github.com/YEmreAk/YLearn/commit/84fd3eae1944d7968180f303f0e15fd39e07ad6d?diff=split) ~ Yunus Emre
