@@ -19,7 +19,7 @@
 * [🍎 MacOS](macos.md)
 * [👩‍🏫 Makine Öğrenimi](makine-ogrenimi.md)
 * [🕹 Oyun Programlama](yonetim/oyun-programlama.md)
-* [👨‍💻 Programlama](programlama.md)
+* [👨‍💻 Programlama](yonetim/programlama.md)
 * [👨‍💼 Proje Yönetimi](proje-yonetimi.md)
 * [🐍 Python](yonetim/python.md)
 * [🔊 Ses](ses.md)
