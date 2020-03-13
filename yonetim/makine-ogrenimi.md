@@ -6,7 +6,7 @@ description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 
 ## 📍 Makine Öğrenimi Haritası
 
-![](.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image.png)
 
 ### 📚 Faydalı Kurslar
 
