@@ -18,11 +18,11 @@ description: Yapay zeka (artificial intelligence) öğrenme bağlantıları
 
 {% embed url="https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari" %}
 
-## 📚Kütüphaneler
+## 📚 Kütüphaneler
 
-### 👓 Bilgisayar Görüşü tabanlı uygulamalar geliştirmeyi kolaylaştıran bir kütüphane
+### 🥽 ImageAI
 
-{% embed url="https://imageai.readthedocs.io/en/latest/" %}
+{% embed url="https://imageai.readthedocs.io/en/latest/" caption="Bilgisayar Görüşü tabanlı uygulamalar geliştirmeyi kolaylaştıran bir kütüphane" %}
 
 ## 📋 Bağlantı Listesi
 
