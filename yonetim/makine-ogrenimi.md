@@ -22,8 +22,6 @@ description: Makine öğrenimi (machine learning) öğrenme bağlantıları
 
 {% embed url="https://www.tensorflow.org/resources/learn-ml" caption="Google\'ın önerdiği yol" %}
 
-
-
 ## 🏫 Stanford Kaynakları
 
 ### 🔎 Gözetimli Öğrenme

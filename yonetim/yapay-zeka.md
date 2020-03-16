@@ -24,6 +24,11 @@ description: Yapay zeka (artificial intelligence) öğrenme bağlantıları
 
 {% embed url="https://imageai.readthedocs.io/en/latest/" caption="Bilgisayar Görüşü tabanlı uygulamalar geliştirmeyi kolaylaştıran bir kütüphane" %}
 
+## ✨ Açık Kaynak Model Siteleri
+
+* [TFHub](https://tfhub.dev/s?subtype=module,placeholder)
+* [ModelZoo](https://modelzoo.co/)
+
 ## 📋 Bağlantı Listesi
 
 * [Raspberry PI ile nesne tanıma](https://www.linkedin.com/posts/zaferdemirkol_zaferdemirkol-kasaftm2019-machinelearning-activity-6602462848222404609-hsWx)
