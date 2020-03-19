@@ -14,6 +14,7 @@ description: Veri bilimi (Data Science) öğrenme bağlantıları
 ## 🎒 Faydalı Araçlar
 
 * [⏬ OpenImages veri setini sınıfa göre indirme](https://github.com/EscVM/OIDv4_ToolKit) 
+* [⚓ Tab Save: Toplu link indirme](https://chrome.google.com/webstore/detail/tab-save/lkngoeaeclaebmpkgapchgjdbaekacki/related)
 
 ## 🚩 Roadmap
 
