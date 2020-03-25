@@ -14,6 +14,12 @@ description: Python öğrenme bağlantıları
 
 {% embed url="https://github.com/YEmreAk/Python-NoteBooks" %}
 
+## 👓 Awesome Python
+
+Python ile ilgili her şey
+
+{% embed url="https://awesome-python.com/" %}
+
 ## 🌟 Ayrıntılı Yabacı Kaynak
 
 {% embed url="https://data-flair.training/blogs/python-tutorials-home/" %}
@@ -35,8 +41,4 @@ description: Python öğrenme bağlantıları
 ## 🧰 Python Araçları
 
 ![](../.gitbook/assets/python_tools.png)
-
-## 👓 Awesome Python
-
-{% embed url="https://github.com/vinta/awesome-python" %}
 
