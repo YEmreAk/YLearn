@@ -3,6 +3,7 @@
 * [👨‍🏫 Öğrenme Yolları](README.md)
 * [👀 Neler Değişti](changelog.md)
 * [🚀 YEmoji](https://emoji.yemreak.com)
+* [🌟 Awesome of awesome](https://github.com/sindresorhus/awesome)
 * [⭐ Benzer Çalışmalar](benzer-calismalar.md)
 
 ## Yönetim <a id="yonetim"></a>
