@@ -1,7 +1,7 @@
-# Table of contents
+# 📋 Tüm İçerikler
 
 * [👨‍🏫 Öğrenme Yolları](README.md)
-* [👀 Neler Değişti](changelog.md)
+* [👀 Neler Değişti](https://github.com/YEmreAk/YLearn/blob/master/CHANGELOG.md)
 * [🚀 YEmoji](https://emoji.yemreak.com)
 * [🌟 Awesome of awesome](https://github.com/sindresorhus/awesome)
 * [⭐ Benzer Çalışmalar](benzer-calismalar.md)
@@ -59,4 +59,3 @@
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
 * [📕 Türkçe Git Kitabı](https://www.yemreak.com/book-git/)
-
