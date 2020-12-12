@@ -4,27 +4,21 @@ description: Python öğrenme bağlantıları
 
 # 🐍 Python
 
+## 🌟 Tavsiye Edilen Kaynaklar
+
+* [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation#courses)
+
 ## 🚀 Türkçe Kaynaklar
 
-{% embed url="https://python.yemreak.com" %}
+* [Python ~ YEmreAk](https://python.yemreak.com)
+* [Python Başlangıç Kiti ~ YEmreAk](https://github.com/YEmreAk/Python-NoteBooks)
+* [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
 
-{% embed url="https://github.com/ibrahimirdem/turkce-python-kaynaklari" %}
+## 📜 Ayrıntılı Yabacı Kaynaklar
 
-## 🧰 Başlangıç Kiti
-
-{% embed url="https://github.com/YEmreAk/Python-NoteBooks" %}
-
-## 👓 Awesome Python
-
-Python ile ilgili her şey
-
-{% embed url="https://awesome-python.com/" %}
-
-## 🌟 Ayrıntılı Yabacı Kaynak
-
-{% embed url="https://data-flair.training/blogs/python-tutorials-home/" %}
-
-{% embed url="https://github.com/Asabeneh/30-Days-Of-Python" %}
+* [Awesome Python](https://awesome-python.com/)
+* [Python Tutorial for Beginners - DataFlair](https://data-flair.training/blogs/python-tutorials-home/)
+* [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 
 ## 🤹 Eğlenceli Kaynaklar
 
