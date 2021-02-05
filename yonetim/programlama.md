@@ -24,6 +24,8 @@ description: Algoritma kurmayı öğrenme bağlantıları
 
 {% embed url="https://codelabs.developers.google.com/" %}
 
+{% embed url="https://learnxinyminutes.com/" %}
+
 ## 💰 Öğrencilere Destekler
 
 {% embed url="https://lib.yemreak.com/yazilar/ogrencilere-ucretsiz-yazilimlar" %}
