@@ -4,6 +4,10 @@ description: Algoritma kurmayı öğrenme bağlantıları
 
 # 👨‍💻 Programlama
 
+##  💻 Kodlama
+
+{% embed url="https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ/featured" %}
+
 ## 📈 Algoritma Geliştirme
 
 {% embed url="https://prog.asmaamir.com" %}
